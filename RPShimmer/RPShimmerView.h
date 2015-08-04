@@ -13,4 +13,7 @@
 
 @property (nonatomic, strong) RPShimmerLayer *rpShimmerLayer;
 
+- (void)startAnimation;
+- (void)stopAnimation;
+
 @end

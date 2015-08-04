@@ -18,7 +18,7 @@
         [self setFrame:self.bounds];
         _shimmerColor = shimmerColor;
         [self initGradients];
-        [self startAimation];
+        [self startAnimation];
         
     }
     return self;
@@ -32,7 +32,7 @@
     self.endPoint = CGPointMake(1.0, 0.5);
 }
 
-- (void)startAimation{
+- (void)startAnimation{
     if([self animationForKey:@"shimmerAnimation"]) return;
     CABasicAnimation *shimmerAnimation = [CABasicAnimation animationWithKeyPath:@"position.x"];
     shimmerAnimation.duration = 2.0;

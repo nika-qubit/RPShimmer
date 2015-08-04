@@ -17,4 +17,8 @@
 @property (nonatomic, strong) UIColor *shimmerColor;//shimmer effect color
 - (instancetype)initWithFrame:(CGRect)frame shimmerColor:(UIColor *)shimmerColor;
 - (void)initGradients;
+
+- (void)startAnimation;
+- (void)stopAnimation;
+
 @end

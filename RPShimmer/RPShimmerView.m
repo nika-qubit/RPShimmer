@@ -27,4 +27,12 @@
     return self;
 }
 
+- (void)startAnimation{
+    [_rpShimmerLayer startAnimation];
+}
+
+- (void)stopAnimation{
+    [_rpShimmerLayer stopAnimation];
+}
+
 @end
