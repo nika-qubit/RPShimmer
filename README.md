@@ -2,6 +2,8 @@
 The lightest-weight shimmer effect implementation. 
 Just simple horizontal shimmer for anything you can add into a UIView (RPShimmerView). 
 
+![Alt Text](http://www.iakworkshop.comuv.com/Public/img/GitLink/RPShimmer.gif)
+
 How to Install:<br/>
 Step1: Copy .h and .m files of "RPShimmerView" and "RPShimmerLayer" into your project.<br/>
 Done!<br/>
