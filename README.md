@@ -17,4 +17,4 @@ Done!<br/>
 
 
 
-Copyright: KevinGG, RightPaw.
+Author: KevinGG, RightPaw.
