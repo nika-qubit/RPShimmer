@@ -1,0 +1,20 @@
+# Mac OS X
+.DS_Store
+
+# Xcode
+xcuserdata/
+project.xcworkspace/
+DerivedData/
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+
+# Endstates built
+build/
+*.[oa]
+
+# Bak files
+*.swp
