@@ -3,8 +3,6 @@ The lightest-weight shimmer effect implementation for iOS.
 Just simple horizontal shimmer effect for anything you can add into a UIView (RPShimmerView).
 Easier to install and use than facebook shimmer.
 
-![Alt Text](http://www.iakworkshop.comuv.com/Public/img/GitLink/RPShimmer.gif)
-
 # How to Install:
 Step1: Copy .h and .m files of "RPShimmerView" and "RPShimmerLayer" into your project.<br/>
 Done!<br/>
